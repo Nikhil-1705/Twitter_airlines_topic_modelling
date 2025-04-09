@@ -98,12 +98,3 @@ overall_topics_over_time.png: Trend of overall topics over time (if tweet_create
 Processed Data (Optional): If you used --save_processed, a file named processed_tweets_no_sentiment.csv containing the cleaned data.
 Ready to explore the world of airline tweets? Happy analyzing! 😄
 **Key changes for "easy and fun":**
-
-*   **Emojis:** Added relevant emojis (✈️, 🗣️, 🧹, 🔥, 📊, ⚙️, 🚀, 📁, 🎉, 📍) to break up text and add visual interest.
-*   **Simple Language:** Used phrases like "magic of BERTopic," "gets rid of," "keep things tidy," "install the goodies," "runs the whole show," "cool charts."
-*   **Clear Headings:** Used markdown headings (`##`, `###`) with descriptive titles.
-*   **Emphasis:** Used **bold** text for key terms and file names.
-*   **Structured Lists:** Used bullet points for features, setup steps, and file structure.
-*   **Code Blocks:** Clearly formatted commands using ```bash ... ```.
-*   **Explanations:** Briefly explained *why* certain steps are done (e.g., virtual environment, NLTK downloads).
-*   **Call to Action:** Ended with an encouraging message.
