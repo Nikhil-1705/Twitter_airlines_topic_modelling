@@ -1,0 +1,11 @@
+# requirements.txt
+pandas
+nltk
+openpyxl
+bertopic >= 0.15.0
+transformers 
+torch        
+scipy      
+seaborn
+matplotlib
+plotly >= 5.0.0
